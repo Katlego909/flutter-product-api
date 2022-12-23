@@ -90,7 +90,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 controller: _textEditingController,
                 keyboardType: TextInputType.text,
                 decoration: InputDecoration(
-                  hintText: 'Search for Products...',
+                  hintText: 'Search for all products...',
                   filled: true,
                   fillColor: Colors.white,
                   enabledBorder: OutlineInputBorder(
